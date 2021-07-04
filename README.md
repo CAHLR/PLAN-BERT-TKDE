@@ -1,5 +1,5 @@
 # PLAN-BERT-TKDE
-The source code and data to reproduce the reported results in PLAN-BERT's TKDE paper.
+The source code and data to reproduce the reported results in a TKDE paper (under review) by Pardos & Shao.
 
 # File Descriptions
 |               Files              | Description                                                                                                                                                                                            |
